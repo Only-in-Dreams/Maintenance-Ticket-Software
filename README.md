@@ -9,7 +9,7 @@
     ```bash
     $ touch ./project/server/settings.json
     ```
-1. Edit this `settings.json` file to add the following:
+   Edit this `settings.json` file to add the following:
     ```json
     {
         "PORT": 3001,
